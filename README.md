@@ -1,4 +1,4 @@
-   ## Note: (This Tools Are Paid, So You Need Permission To Use Hasan Random clone Tools Enjoy)
+   ## Note: (This  Random clone Free Tools Enjoy)
   ## Love You Kolixa ra 😻
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
