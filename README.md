@@ -82,7 +82,10 @@
 
    ## • ls
 
-   ## • Python2 H_RANDOM.py
+   ## • Python H_RANDOM.py
+   
+   ## Naxt Run🤙
+   ## • python2 H_RANDOM.py
 
 ## Thanks Use My Termux Random Command Bro 🥱🤙
                    
